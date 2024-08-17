@@ -87,7 +87,7 @@ chmod +x init.config
 
 docker compose up --build
 ```
-open new window if possible or else continue in the same
+open new window 
 
 
 ```console
