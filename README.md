@@ -87,6 +87,10 @@ chmod +x init.config
 
 docker compose up --build
 ```
+Now node is started successfully.
+
+To check the status of the node.
+
 open new window 
 
 
