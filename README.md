@@ -85,7 +85,8 @@ click Ctrl + X Then Y
 chmod +x init.config
 ./init.config
 
-docker compose up --build
+sudo docker compose build
+sudo docker compose up -d
 ```
 Now node is started successfully.
 
