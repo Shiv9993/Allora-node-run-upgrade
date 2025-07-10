@@ -111,7 +111,7 @@ click ctrl+c tl exit the logs
 
 
 
-# To run the nide after turning of pc
+# To run restart the node
 
 ```console
 cd basic-coin-prediction-node
